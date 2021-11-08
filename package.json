@@ -1,0 +1,15 @@
+{
+  "name": "hamr-doc",
+  "version": "1.0.0",
+  "description": "hamr",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev":"hamr dev docs",
+    "docs:build":"hamr build docs"
+  },
+  "author": "heyongxian",
+  "license": "ISC",
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.27"
+  }
+}
