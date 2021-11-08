@@ -4,8 +4,8 @@
   "description": "hamr",
   "main": "index.js",
   "scripts": {
-    "docs:dev":"hamr dev docs",
-    "docs:build":"hamr build docs"
+    "docs:dev":"vuepress dev docs -p 4010",
+    "docs:build":"vuepress build docs"
   },
   "author": "heyongxian",
   "license": "ISC",
